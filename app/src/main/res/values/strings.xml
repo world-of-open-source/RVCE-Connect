@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RVCE Connect</string>
+    <integer name="card_flip_time_full">1000</integer>
+    <integer name="card_flip_time_half">500</integer>
+
+    <string-array name="attendance">
+        <item>ATTENDANCE</item>
+        <item>UPDATES</item>
+    </string-array>
+
+
+    <string-array name="testscore">
+        <item>TEST SCORE</item>
+        <item>UPDATES</item>
+    </string-array>
+
+
+    <string-array name="calender">
+        <item>CALENDER</item>
+        <item>NEW EVENTS</item>
+    </string-array>
+
+    <string-array name="loginpage">
+        <item>WELCOME TO RVCE CONNECT</item>
+        <item>PLEASE ENTER CREDENTIALS TO LOGIN INTO THE APP</item>
+        <item>MAKE SURE YOU ARE CONNECTED TO COLLEGE WIFI</item>
+    </string-array>
+    <string name="title_activity_teacher_front_end">TeacherFrontEnd</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>

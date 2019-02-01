@@ -1,4 +1,4 @@
-# rvceconnect
+# RVCE Connect Android Application
 
 © Premal Singh, Shubham Phal. All Rights Reserved.
 
